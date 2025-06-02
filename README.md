@@ -5,6 +5,10 @@ Ce projet utilise le concept de **Retrieval-Augmented Generation (RAG)** avec **
 
 ---
 
+![Texte alternatif](./images/1.png)
+![Texte alternatif](./images/2.png)
+
+
 ## 🚀 Fonctionnalités
 
 - 🔍 Recherche intelligente dans des avis de clients (RAG)
